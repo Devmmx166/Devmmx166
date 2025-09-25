@@ -11,14 +11,7 @@
  
 
   <!-- Ícones sobrepostos -->
-  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" 
-       style="position:absolute; top:20%; left:15%; width:60px;" alt="C#">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-       style="position:absolute; top:20%; left:45%; width:60px;" alt="Python">
-
-  <img src="./assets/react-logo.svg" 
-       style="position:absolute; top:20%; left:75%; width:60px;" alt="React">
+ 
 
 ---
 
@@ -46,7 +39,7 @@ Atualmente, desenvolvo soluções em:
 
 ## 🚀 Tecnologias & Ferramentas  
 
-**💻 Linguagens de Programação:**  
+**💻 ![Linguagens de Programação:]**  
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
