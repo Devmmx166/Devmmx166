@@ -1,38 +1,37 @@
 # 👋 Olá, eu sou Hilton Freitas de Oliveira Junior
 
 💻 **Analista de Sistemas | Desenvolvedor C# | Python | Desenvolvimento Web | Segurança da Informação**  
- <div>
+
+<div align="center">
  <a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+  <img title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
 </a>
-
 <a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+ <img title="React e React Native" alt="React" width="40px" src="./assets/react-logo.svg" />
 </a>
-
 <a href="https://tailwindcss.com" target="_blank">
- <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
+ <img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="./assets/tailwind-logo.svg" />
 </a>
-
 <a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
+  <img title="Next.js" alt="Next.js" width="40px" src="./assets/next-logo.svg" />
 </a>
-
-
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
+  <img title="C#" alt="C#" width="40px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
 </a>
- </div>
+</div>
 
-
+---
 
 Sou apaixonado por tecnologia e focado em **Segurança da Informação**, **Desenvolvimento de Sistemas Web e Desktop** e **Inclusão Digital**.  
 Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para automações e análise de dados**, e projetos de **aplicações web modernas**.  
 
+---
+
 ## 🎓 Formação Acadêmica
 - **Engenharia de Software** *(Bacharelado, em andamento)* – Unicesumar  
 - **Análise e Desenvolvimento de Sistemas** *(Concluído)* – Unicesumar  
-- **Pós-graduação em C#, Desenvolvimento Web e Segurança da Informação**
+- **Pós-graduação em C#, Desenvolvimento Web e Segurança da Informação** *(em planejamento)*  
+- **Pós-graduação em Engenharia da Segurança do Trabalho** *(futuro objetivo)*  
 
 ---
 
@@ -52,18 +51,15 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 
 <div align="center">
   <img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo.gif.gif?raw=true" width="600" alt="Programando no computador">
- 
 </div>
 
-
-
-
+---
 
 ## 📊 Estatísticas no GitHub
 
-![Hilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+![Hilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devmmx166&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmmx166&layout=compact&theme=radical)
 
 ---
 
