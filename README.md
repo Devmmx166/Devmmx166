@@ -2,7 +2,7 @@
  <img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo02.gif?raw=true;">
 </div>
 
-<h1>👋 Olá, eu sou Hilton Freitas de Oliveira Junior</h1>  <a href="https://www.gov.br/anpd/pt-br/assuntos/lgpd" target="_blank">
+<h1>👋 Olá, eu sou Hilton Jr</h1>  <a href="https://www.gov.br/anpd/pt-br/assuntos/lgpd" target="_blank">
     <img src="https://img.freepik.com/vetores-premium/lgpd-autoridade-brasileira-de-protecao-de-dados-dpa-lei-geral-de-protecao-de-dados-vector-stock-illustration_100456-10367.jpg" 
          alt="LGPD" style="margin: 0 15px; width:60px; border-radius:5px;">
 
