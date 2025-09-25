@@ -47,7 +47,7 @@ Atualmente, desenvolvo soluções em:
   </a>
 
   <a>
-    <img src="./assets/react-logo.svg" 
+    <img src="https://lh4.googleusercontent.com/proxy/-pwfOTdxxcqsqjbDyAQk0Wepf0u8dWjZpODEITcMwM8iXfiGbRSz-droJTIImOG2GlwDfKGiTnPJTBgC_pzRjpByMfr5ou7SKM3NjbyZYwTys749fp_KWrcmWX14qxxM" 
          alt="React" width="60px" style="margin: 0 15px;">
   </a>
 </div>
