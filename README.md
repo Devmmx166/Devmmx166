@@ -15,11 +15,7 @@ Atualmente, desenvolvo soluções em:
 
 - 💻 **C# com .NET** – Aplicações **Windows Forms**, **Web** e **APIs**  
 - 🐍 **Python** – Automação de processos e **análise de dados**  
-- 🌐 **Aplicações Web Modernas** – Usando  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- 🌐 **Desenvolvimento Aplicações Web**
 - 🎮 **Desenvolvimento de Jogos com Unity** – Criação de experiências imersivas e otimizadas  
 - 🔐 **Segurança da Informação**  
   - 🛡 **Defesa Cibernética** contra ameaças avançadas  
@@ -60,6 +56,7 @@ Atualmente, desenvolvo soluções em:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **⚙ Back-end e Banco de Dados:**  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
