@@ -40,14 +40,23 @@ Atualmente, desenvolvo soluções em:
 ## 🚀 Tecnologias & Ferramentas  
 
 **💻 ![Linguagens de Programação:]**  
-<a><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" 
-       style="position:absolute; top:20%; left:15%; width:60px;" alt="C#"></a> 
+<div align="center">
+  <a>
+    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" 
+         alt="C#" width="60px" style="margin: 0 15px;">
+  </a>
+  
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+         alt="Python" width="60px" style="margin: 0 15px;">
+  </a>
 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-       style="position:absolute; top:20%; left:45%; width:60px;" alt="Python"></a>  
+  <a>
+    <img src="./assets/react-logo.svg" 
+         alt="React" width="60px" style="margin: 0 15px;">
+  </a>
+</div>
 
-<a> <img src="./assets/react-logo.svg" 
-       style="position:absolute; top:20%; left:75%; width:60px;" alt="React"></a> 
 **🌐 Front-end:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
