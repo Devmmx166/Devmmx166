@@ -20,6 +20,9 @@
  <a href="https://nextjs.org" target="_blank">
    <img title="Next.js" alt="Next.js" width="50px" src="./assets/next-logo.svg" />
  </a>
+ <div align="center">
+  <img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo.gif.gif?raw=true" width="600" alt="GIF Programação">
+</div
 </div>
 
 ---
