@@ -1,10 +1,12 @@
+<div style="position:relative; width:100%;">
+
+</div>
+
 # 👋 Olá, eu sou Hilton Freitas de Oliveira Junior  
 
 💻 **Analista de Sistemas | Desenvolvedor C# | Python | Desenvolvimento Web | Segurança da Informação**  
 
 ---
-
-<div style="position:relative; width:100%;">
   <!-- GIF de fundo -->
   <img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo02.gif?raw=true;">
 
@@ -17,10 +19,10 @@
 
   <img src="./assets/react-logo.svg" 
        style="position:absolute; top:20%; left:75%; width:60px;" alt="React">
-</div>
+
 ---
 
-<!-- GIF FULL WIDTH -->
+
 
 
 ---
