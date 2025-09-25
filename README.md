@@ -52,10 +52,10 @@ Atualmente, desenvolvo soluções em:
          alt="React" width="60px" style="margin: 0 15px;">
   </a>
 
-   <a href="">
-    <img src="https://img.freepik.com/vetores-premium/lgpd-autoridade-brasileira-de-protecao-de-dados-dpa-lei-geral-de-protecao-de-dados-vector-stock-illustration_100456-10367.jpg" 
-         alt="React" width="60px" style="margin: 0 15px; border-radius:5px">
-  </a>
+<a href="https://www.gov.br/anpd/pt-br/assuntos/lgpd">
+  <img src="https://img.freepik.com/vetores-premium/lgpd-autoridade-brasileira-de-protecao-de-dados-dpa-lei-geral-de-protecao-de-dados-vector-stock-illustration_100456-10367.jpg" 
+       alt="LGPD" width="60px" style="margin: 0 15px; border-radius:5px">
+</a>
 </div>
 
 **🌐 Front-end:**  
