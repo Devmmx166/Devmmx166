@@ -51,7 +51,7 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 </a>
 
 <a href="https://go.dev" target="_blank">
-  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="https://dotnet.microsoft.com/pt-br/languages/csharp" />
+  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
 </a>
 
 <a href="https://graphql.org" target="_blank">
