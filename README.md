@@ -36,8 +36,7 @@ Atualmente, desenvolvo soluções em:
 
 **💻 Linguagens de Programação:**  
 <div align="left">
-  <img src="https://learn.microsoft.com/pt-br/dotnet/csharp/"
-    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"
+  <img src="https://learn.microsoft.com/pt-br/dotnet/csharp/"   
          alt="C#" width="60px" style="margin: 0 15px;">
   </a>
   
