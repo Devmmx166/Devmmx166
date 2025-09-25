@@ -50,25 +50,13 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
   <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
 </a>
 
-<a href="https://go.dev" target="_blank">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
 </a>
 
-<a href="https://graphql.org" target="_blank">
-  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./assets/graphql-logo.svg" />
-</a>
 
-<a href="https://jestjs.io/pt-BR/" target="_blank">
-  <img align="left" title="Jest" alt="Jest" width="40px" src="./assets/jest-logo.svg" />
-</a>
 
-<a href="https://www.cypress.io" target="_blank">
-  <img align="left" title="Cypress" alt="Jest" width="40px" src="./assets/cypress-logo.svg" />
-</a>
 
-<a href="https://storybook.js.org" target="_blank">
-  <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
-</a>
 
 
 ## 📊 Estatísticas no GitHub
