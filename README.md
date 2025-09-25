@@ -36,8 +36,8 @@ Atualmente, desenvolvo soluções em:
 
 **💻 Linguagens de Programação:**  
 <div align="left">
-  <a>
-    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" target:_blank
+  <img src="https://learn.microsoft.com/pt-br/dotnet/csharp/"
+    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg"
          alt="C#" width="60px" style="margin: 0 15px;">
   </a>
   
@@ -48,6 +48,11 @@ Atualmente, desenvolvo soluções em:
 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img src="https://lh4.googleusercontent.com/proxy/-pwfOTdxxcqsqjbDyAQk0Wepf0u8dWjZpODEITcMwM8iXfiGbRSz-droJTIImOG2GlwDfKGiTnPJTBgC_pzRjpByMfr5ou7SKM3NjbyZYwTys749fp_KWrcmWX14qxxM" 
+         alt="React" width="60px" style="margin: 0 15px;">
+  </a>
+
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOJcXgPfW1Rv0b48P-60L_LHoWUme8k3l6Q&s" 
          alt="React" width="60px" style="margin: 0 15px;">
   </a>
 </div>
