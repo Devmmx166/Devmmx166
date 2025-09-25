@@ -37,7 +37,7 @@ Atualmente, desenvolvo soluções em:
 **💻 Linguagens de Programação:**  
 <div align="left">
   <a>
-    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" _blank
+    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" target:_blank
          alt="C#" width="60px" style="margin: 0 15px;">
   </a>
   
