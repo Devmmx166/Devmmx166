@@ -13,7 +13,7 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 
 ## 🚀 Tecnologias & Ferramentas
 <div align="center">
-  <img src="LINK_DO_GIF_8BIT" width="600" alt="Programador pixel art 8-bit programando">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Programador pixel art 8-bit programando">
 </div>
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
