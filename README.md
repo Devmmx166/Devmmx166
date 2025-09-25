@@ -54,7 +54,7 @@ Atualmente, desenvolvo soluções em:
 
    <a href="">
     <img src="https://img.freepik.com/vetores-premium/lgpd-autoridade-brasileira-de-protecao-de-dados-dpa-lei-geral-de-protecao-de-dados-vector-stock-illustration_100456-10367.jpg" 
-         alt="React" width="60px" style="margin: 0 15px;">
+         alt="React" width="60px" style="margin: 0 15px; border-radius:5px">
   </a>
 </div>
 
