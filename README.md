@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Hilton Freitas de Oliveira Junior
 
 💻 **Analista de Sistemas | Desenvolvedor C# | Python | Desenvolvimento Web | Segurança da Informação**  
+ <div>
  <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
 </a>
@@ -21,7 +22,7 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
 </a>
-
+ </div>
 
 
 
