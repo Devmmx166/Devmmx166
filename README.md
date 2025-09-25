@@ -46,9 +46,6 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
   <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
 </a>
 
-<a href="https://nestjs.com" target="_blank">
-  <img align="left" title="Nest Js" alt="Nest Js" width="40px" src="./assets/nest-logo.svg" />
-</a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
