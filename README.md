@@ -25,8 +25,8 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<div>
- <img align="left" title="Typescript" alt="Typescript" width="40px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<div align="center">
+  <img src="LINK_DO_GIF_8BIT" width="600" alt="Programador pixel art 8-bit programando">
 </div>
 
 <a href="https://www.typescriptlang.org" target="_blank">
