@@ -1,6 +1,29 @@
 # 👋 Olá, eu sou Hilton Freitas de Oliveira Junior
 
 💻 **Analista de Sistemas | Desenvolvedor C# | Python | Desenvolvimento Web | Segurança da Informação**  
+ <a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
+</a>
+
+<a href="https://pt-br.reactjs.org" target="_blank">
+ <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
+</a>
+
+<a href="https://tailwindcss.com" target="_blank">
+ <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
+</a>
+
+<a href="https://nextjs.org" target="_blank">
+  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
+</a>
+
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
+</a>
+
+
+
 
 Sou apaixonado por tecnologia e focado em **Segurança da Informação**, **Desenvolvimento de Sistemas Web e Desktop** e **Inclusão Digital**.  
 Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para automações e análise de dados**, e projetos de **aplicações web modernas**.  
@@ -28,29 +51,7 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 
 <div align="center">
   <img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo.gif.gif?raw=true" width="600" alt="Programando no computador">
-  <a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
-</a>
-
-<a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./assets/react-logo.svg" />
-</a>
-
-<a href="https://tailwindcss.com" target="_blank">
- <img align="left" title="Tailwind Css" alt="Tailwind Css" width="40px" src="./assets/tailwind-logo.svg" />
-</a>
-
-<a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
-</a>
-
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
-</a>
-
-
-
+ 
 </div>
 
 
