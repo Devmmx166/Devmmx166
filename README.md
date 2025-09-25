@@ -13,7 +13,7 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 
 ## 🚀 Tecnologias & Ferramentas
 <div align="center">
-  <img src="https://i.gifer.com/J4o.gif" width="600" alt="Retro Dev Animado">
+  <img src="LINK_DO_GIF_8BIT" width="600" alt="Programador pixel art 8-bit programando">
 </div>
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
