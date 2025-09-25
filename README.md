@@ -21,7 +21,7 @@
 ---
 
 <!-- GIF FULL WIDTH -->
-<img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo.gif.gif?raw=true" alt="GIF Programação" style="width:100%; display:block; margin: 0 auto;">
+
 
 ---
 
