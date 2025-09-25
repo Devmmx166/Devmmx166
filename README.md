@@ -36,27 +36,31 @@ Atualmente, desenvolvo soluções em:
 
 **💻 Linguagens de Programação:**  
 <div align="left">
- <a href="https://docs.python.org/pt-br/3/" _blank>
+
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
     <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" 
-       style="position:absolute; top:20%; left:15%; width:60px;" alt="C#">
+         alt="C#" style="margin: 0 15px; width:60px; border-radius:5px;">
   </a>
 
-  
-  <a href="https://docs.python.org/pt-br/3/" _blank>
+
+  <a href="https://docs.python.org/pt-br/3/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-         alt="Python" width="60px" style="margin: 0 15px;">
+         alt="Python" style="margin: 0 15px; width:60px;">
   </a>
 
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://lh4.googleusercontent.com/proxy/-pwfOTdxxcqsqjbDyAQk0Wepf0u8dWjZpODEITcMwM8iXfiGbRSz-droJTIImOG2GlwDfKGiTnPJTBgC_pzRjpByMfr5ou7SKM3NjbyZYwTys749fp_KWrcmWX14qxxM" 
-         alt="React" width="60px" style="margin: 0 15px;">
+         alt="JavaScript" style="margin: 0 15px; width:60px; border-radius:5px;">
   </a>
 
-<a href="https://www.gov.br/anpd/pt-br/assuntos/lgpd">
-  <img src="https://img.freepik.com/vetores-premium/lgpd-autoridade-brasileira-de-protecao-de-dados-dpa-lei-geral-de-protecao-de-dados-vector-stock-illustration_100456-10367.jpg" 
-       alt="LGPD" width="60px" style="margin: 0 15px; border:10pt">
-</a>
+
+  <a href="https://www.gov.br/anpd/pt-br/assuntos/lgpd" target="_blank">
+    <img src="https://img.freepik.com/vetores-premium/lgpd-autoridade-brasileira-de-protecao-de-dados-dpa-lei-geral-de-protecao-de-dados-vector-stock-illustration_100456-10367.jpg" 
+         alt="LGPD" style="margin: 0 15px; width:60px; border-radius:5px;">
+  </a>
 </div>
+
 
 **🌐 Front-end:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
