@@ -4,24 +4,20 @@
 
 ---
 
-<div align="center">
- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-   <img title="C#" alt="C#" width="50px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
- </a>
- <a href="https://www.python.org" target="_blank">
-   <img title="Python" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- </a>
- <a href="https://pt-br.reactjs.org" target="_blank">
-   <img title="React" alt="React" width="50px" src="./assets/react-logo.svg" />
- </a>
- <a href="https://tailwindcss.com" target="_blank">
-   <img title="Tailwind CSS" alt="Tailwind CSS" width="50px" src="./assets/tailwind-logo.svg" />
- </a>
- <a href="https://nextjs.org" target="_blank">
-   <img title="Next.js" alt="Next.js" width="50px" src="./assets/next-logo.svg" />
- </a>
-</div>
+<div style="position:relative; width:100%;">
+  <!-- GIF de fundo -->
+  <img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo.gif.gif?raw=true" alt="GIF Programação" style="width:100%;">
 
+  <!-- Ícones sobrepostos -->
+  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" 
+       style="position:absolute; top:20%; left:15%; width:60px;" alt="C#">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       style="position:absolute; top:20%; left:45%; width:60px;" alt="Python">
+
+  <img src="./assets/react-logo.svg" 
+       style="position:absolute; top:20%; left:75%; width:60px;" alt="React">
+</div>
 ---
 
 <!-- GIF FULL WIDTH -->
