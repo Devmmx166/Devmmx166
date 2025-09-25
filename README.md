@@ -40,7 +40,7 @@ Atualmente, desenvolvo soluções em:
 ## 🚀 Tecnologias & Ferramentas  
 
 **💻 ![Linguagens de Programação:]**  
-<div align="center">
+<div align="left">
   <a>
     <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" 
          alt="C#" width="60px" style="margin: 0 15px;">
