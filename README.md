@@ -1,13 +1,14 @@
-# 👋 Olá, eu sou Hilton Freitas  
+# 👋 Olá, eu sou Hilton Freitas de Oliveira Junior
 
 💻 **Analista de Sistemas | Desenvolvedor C# | Python | Desenvolvimento Web | Segurança da Informação**  
 
 Sou apaixonado por tecnologia e focado em **Segurança da Informação**, **Desenvolvimento de Sistemas Web e Desktop** e **Inclusão Digital**.  
 Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para automações e análise de dados**, e projetos de **aplicações web modernas**.  
 
-🎓 **Formação:**  
-- Faculdade Unicesumar – Análise de Sistemas e Engenharia da Informação  
-- Pós-graduação em C# Desenvolvimento Web e Segurança da Informação  
+## 🎓 Formação Acadêmica
+- **Engenharia de Software** *(Bacharelado, em andamento)* – Unicesumar  
+- **Análise e Desenvolvimento de Sistemas** *(Concluído)* – Unicesumar  
+- **Pós-graduação em C#, Desenvolvimento Web e Segurança da Informação**
 
 ---
 
