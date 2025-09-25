@@ -27,7 +27,7 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
-  <img src="./assets/plano-de-fundo.gif" width="600" alt="Programando no computador">
+  <img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo.gif.gif?raw=true" width="600" alt="Programando no computador">
 </div>
 
 <a href="https://www.typescriptlang.org" target="_blank">
