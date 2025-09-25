@@ -12,9 +12,9 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-!<div align="center">
+<div align="center">
 <img src="https://i.gifer.com/Vg4.gif" width="600" alt="Dev Hacker Neon Retro">
-!</div>
+</div>
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
