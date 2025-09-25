@@ -3,6 +3,10 @@
 </div>
 
 # 👋 Olá, eu sou Hilton Freitas de Oliveira Junior  
+ <a href="https://www.gov.br/anpd/pt-br/assuntos/lgpd" target="_blank">
+    <img src="https://img.freepik.com/vetores-premium/lgpd-autoridade-brasileira-de-protecao-de-dados-dpa-lei-geral-de-protecao-de-dados-vector-stock-illustration_100456-10367.jpg" 
+         alt="LGPD" style="margin: 0 15px; width:60px; border-radius:5px;">
+  </a>
 
 💻 **Analista de Sistemas | Desenvolvedor C# | Python | Desenvolvimento Web | Segurança da Informação**  
 
@@ -55,10 +59,7 @@ Atualmente, desenvolvo soluções em:
   </a>
 
 
-  <a href="https://www.gov.br/anpd/pt-br/assuntos/lgpd" target="_blank">
-    <img src="https://img.freepik.com/vetores-premium/lgpd-autoridade-brasileira-de-protecao-de-dados-dpa-lei-geral-de-protecao-de-dados-vector-stock-illustration_100456-10367.jpg" 
-         alt="LGPD" style="margin: 0 15px; width:60px; border-radius:5px;">
-  </a>
+ 
 </div>
 
 
