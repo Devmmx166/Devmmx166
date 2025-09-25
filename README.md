@@ -6,19 +6,6 @@
 
 💻 **Analista de Sistemas | Desenvolvedor C# | Python | Desenvolvimento Web | Segurança da Informação**  
 
----
-  <!-- GIF de fundo -->
- 
-
-  <!-- Ícones sobrepostos -->
- 
-
----
-
-
-
-
----
 
 ## 🧑‍💻 Sobre mim
 Sou apaixonado por tecnologia e focado em **Segurança da Informação**, **Desenvolvimento de Sistemas Web e Desktop** e **Inclusão Digital**.  
@@ -39,7 +26,7 @@ Atualmente, desenvolvo soluções em:
 
 ## 🚀 Tecnologias & Ferramentas  
 
-**💻 ![Linguagens de Programação:]**  
+**💻 Linguagens de Programação:**  
 <div align="left">
   <a>
     <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" 
