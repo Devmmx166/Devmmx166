@@ -28,9 +28,7 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 
 <div align="center">
   <img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo.gif.gif?raw=true" width="600" alt="Programando no computador">
-</div>
-
-<a href="https://www.typescriptlang.org" target="_blank">
+  <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
 </a>
 
@@ -51,6 +49,9 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
   <img align="left" title="Go Lang" alt="Go Lang" width="40px" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
 </a>
 
+
+
+</div>
 
 
 
