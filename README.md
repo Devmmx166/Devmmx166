@@ -54,7 +54,7 @@ Atualmente, desenvolvo soluções em:
 
 <a href="https://www.gov.br/anpd/pt-br/assuntos/lgpd">
   <img src="https://img.freepik.com/vetores-premium/lgpd-autoridade-brasileira-de-protecao-de-dados-dpa-lei-geral-de-protecao-de-dados-vector-stock-illustration_100456-10367.jpg" 
-       alt="LGPD" width="60px" style="margin: 0 15px; border-radius:10pt">
+       alt="LGPD" width="60px" style="margin: 0 15px; border:10pt">
 </a>
 </div>
 
