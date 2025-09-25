@@ -51,8 +51,8 @@ Atualmente, desenvolvo soluções em:
          alt="React" width="60px" style="margin: 0 15px;">
   </a>
 
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSOJcXgPfW1Rv0b48P-60L_LHoWUme8k3l6Q&s" 
+   <a href="">
+    <img src="https://img.odcdn.com.br/wp-content/uploads/2020/12/shutterstock_1859289754-1-1024x796.jpg" 
          alt="React" width="60px" style="margin: 0 15px;">
   </a>
 </div>
