@@ -13,7 +13,7 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-<div align="center">
+
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,8 +25,8 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
+<img align="left" title="Typescript" alt="Typescript" width="40px" src="/maurodesouza/maurodesouza/raw/master/assets/typescript-logo.svg" style="max-width: 100%;">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="Programador pixel art 8-bit programando">
 </div>
 
