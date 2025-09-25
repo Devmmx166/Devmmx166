@@ -7,12 +7,27 @@
 💻 **Analista de Sistemas | Desenvolvedor C# | Python | Desenvolvimento Web | Segurança da Informação**  
 
 
-## 🧑‍💻 Sobre mim
-Sou apaixonado por tecnologia e focado em **Segurança da Informação**, **Desenvolvimento de Sistemas Web e Desktop** e **Inclusão Digital**.  
+🧑‍💻 Sobre mim
+
+Sou apaixonado por tecnologia e focado em Segurança da Informação, Desenvolvimento de Sistemas Web e Desktop, Desenvolvimento de Jogos e Inclusão Digital.
+
 Atualmente, desenvolvo soluções em:
-- **C#** (Windows Forms e Web)
-- **Python** para automações e análise de dados
-- **Aplicações web modernas** usando React, Next.js e Tailwind CSS  
+
+C# com .NET para aplicações Windows Forms, Web e APIs
+
+Python para automações, análise de dados e ferramentas inteligentes
+
+Aplicações web modernas usando React, Next.js, Tailwind CSS e Bootstrap
+
+Desenvolvimento de jogos com Unity, criando experiências interativas e otimizando desempenho
+
+Segurança da Informação, com foco em:
+
+Defesa Cibernética e proteção contra ataques avançados
+
+LGPD (Lei Geral de Proteção de Dados) e compliance corporativo
+
+Certificado Profissional de Cyber Segurança do Google, agregando conhecimento prático e estratégico na área
 
 ---
 
