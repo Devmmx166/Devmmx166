@@ -53,7 +53,7 @@ Atualmente, desenvolvo soluções em:
   </a>
 
    <a href="">
-    <img src="https://img.odcdn.com.br/wp-content/uploads/2020/12/shutterstock_1859289754-1-1024x796.jpg" 
+    <img src="https://img.freepik.com/vetores-premium/lgpd-autoridade-brasileira-de-protecao-de-dados-dpa-lei-geral-de-protecao-de-dados-vector-stock-illustration_100456-10367.jpg" 
          alt="React" width="60px" style="margin: 0 15px;">
   </a>
 </div>
