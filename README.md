@@ -40,10 +40,14 @@ Atualmente, desenvolvo soluções em:
 ## 🚀 Tecnologias & Ferramentas  
 
 **💻 ![Linguagens de Programação:]**  
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" 
+       style="position:absolute; top:20%; left:15%; width:60px;" alt="C#"></a> 
 
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       style="position:absolute; top:20%; left:45%; width:60px;" alt="Python"></a>  
+
+<a> <img src="./assets/react-logo.svg" 
+       style="position:absolute; top:20%; left:75%; width:60px;" alt="React"></a> 
 **🌐 Front-end:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
