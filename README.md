@@ -12,9 +12,6 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Programador pixel art 8-bit programando">
-</div>
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -28,7 +25,10 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="Programador pixel art 8-bit programando">
+</div>
+
 
 ## 📊 Estatísticas no GitHub
 
