@@ -7,27 +7,24 @@
 💻 **Analista de Sistemas | Desenvolvedor C# | Python | Desenvolvimento Web | Segurança da Informação**  
 
 
-🧑‍💻 Sobre mim
+## 🧑‍💻 Sobre mim  
 
-Sou apaixonado por tecnologia e focado em Segurança da Informação, Desenvolvimento de Sistemas Web e Desktop, Desenvolvimento de Jogos e Inclusão Digital.
+Sou apaixonado por tecnologia e focado em **Segurança da Informação**, **Desenvolvimento de Sistemas Web e Desktop**, **Desenvolvimento de Jogos** e **Inclusão Digital**.  
 
-Atualmente, desenvolvo soluções em:
+Atualmente, desenvolvo soluções em:  
 
-C# com .NET para aplicações Windows Forms, Web e APIs
-
-Python para automações, análise de dados e ferramentas inteligentes
-
-Aplicações web modernas usando React, Next.js, Tailwind CSS e Bootstrap
-
-Desenvolvimento de jogos com Unity, criando experiências interativas e otimizando desempenho
-
-Segurança da Informação, com foco em:
-
-Defesa Cibernética e proteção contra ataques avançados
-
-LGPD (Lei Geral de Proteção de Dados) e compliance corporativo
-
-Certificado Profissional de Cyber Segurança do Google, agregando conhecimento prático e estratégico na área
+- 💻 **C# com .NET** – Aplicações **Windows Forms**, **Web** e **APIs**  
+- 🐍 **Python** – Automação de processos e **análise de dados**  
+- 🌐 **Aplicações Web Modernas** – Usando  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- 🎮 **Desenvolvimento de Jogos com Unity** – Criação de experiências imersivas e otimizadas  
+- 🔐 **Segurança da Informação**  
+  - 🛡 **Defesa Cibernética** contra ameaças avançadas  
+  - 📜 **LGPD** – Adequação e compliance corporativo  
+  - 🎓 **Certificado Profissional de Cyber Segurança do Google**  
 
 ---
 
