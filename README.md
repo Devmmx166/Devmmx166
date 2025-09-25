@@ -1,5 +1,5 @@
 <div style="position:relative; width:100%;">
-
+ <img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo02.gif?raw=true;">
 </div>
 
 # 👋 Olá, eu sou Hilton Freitas de Oliveira Junior  
@@ -8,7 +8,7 @@
 
 ---
   <!-- GIF de fundo -->
-  <img src="https://github.com/Devmmx166/Devmmx166/blob/main/assets/plano-de-fundo02.gif?raw=true;">
+ 
 
   <!-- Ícones sobrepostos -->
   <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" 
