@@ -12,7 +12,7 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Programando no computador">
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,8 +37,8 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 
 ## 🌍 Onde me encontrar  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEULINKEDIN)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hilton-freitas-de-oliveira-junior/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmmx166@gmail.com)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/hiltonjr_86150)  
 
 ---
