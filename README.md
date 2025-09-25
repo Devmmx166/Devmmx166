@@ -28,6 +28,9 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 <div align="center">
   <img src="LINK_DO_GIF_8BIT" width="600" alt="Programador pixel art 8-bit programando">
 </div>
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/plano-de-fundo.gif" />
+</a>
 
 <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
