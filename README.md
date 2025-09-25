@@ -27,7 +27,7 @@ Atualmente, desenvolvo soluções em **C# (Windows Forms e Web)**, **Python para
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
-  <img align="left" title="Typescript" alt="Typescript" width="40px" src="https://www.pngfind.com/pngs/m/638-6386507_10-years-of-experience-react-native-logo-svg.png" style="max-width: 100%;">
+  <img align="left" title="Typescript" alt="Typescript" width="40px" src="https://tenor.com/pt-BR/view/reactjs-nextjs-dev-web-programming-gif-21733768">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="Programador pixel art 8-bit programando">
 </div>
 
